@@ -84,9 +84,9 @@ python src/plot_results.py
 
 ## Authors
 - **Divith B S** ([GitHub](https://github.com/bsdivith) | [LinkedIn](https://www.linkedin.com/in/divith-b-s))
-- **Anirudh Sajith** ([GitHub] https://github.com/An1rud )
-- **Harsh Manalel**
-
+- **Anirudh Sajith** ([GitHub](https://github.com/An1rud)
+- **Harsh Manalel** ([GitHub](https://github.com/HarshManalel)
+ 
 ## Acknowledgments
 This project was carried out under the supervision of **Dr. G Naveen Babu** at **Dayananda Sagar University**.
 
