@@ -90,6 +90,5 @@ python src/plot_results.py
 ## Acknowledgments
 This project was carried out under the supervision of **Dr. G Naveen Babu** at **Dayananda Sagar University**.
 
-## License
-This project is licensed under the **MIT License**.
+
 
